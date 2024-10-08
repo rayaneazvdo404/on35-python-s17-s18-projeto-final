@@ -1,5 +1,8 @@
 # Projeto Final de Análise de Dados
 
+Projeto desenvolvido em dupla com a Karine Lessa
+https://github.com/karinelessa
+
 ## Contexto  
 Este projeto consiste na análise de **dados da Violência Doméstica no estado de Pernambuco**.  
 
